@@ -1,4 +1,4 @@
-Enter file/*
+/*
 Theme Name: Stork
 Author: Just Good Themes
 Author URI: http://justgoodthemes.com/
@@ -182,7 +182,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #1f1f1f;
+	color: #ffffff;
 	font-weight: bold;
 	margin: 0 0 24px;
 }
